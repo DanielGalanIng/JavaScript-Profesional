@@ -1,0 +1,24 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "description": "Platzi Video con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [],
+  "author": "Daniel Galán <danielgalan0410@icloud.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGalanIng/JavaScript-Profesional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielGalanIng/JavaScript-Profesional/issues"
+  },
+  "homepage": "https://github.com/DanielGalanIng/JavaScript-Profesional#readme"
+}
